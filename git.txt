@@ -1,7 +1,7 @@
 welcomeall
 today i will introduce u to git
 commit means changes;Any updates or changes in the ghit file is updated to the git file by using the keyword commit
-1
+
 
 
 
